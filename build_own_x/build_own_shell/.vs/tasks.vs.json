@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "\u4EFB\u52A1-shell",
+      "appliesTo": "shell.c",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "\u4EFB\u52A1-build_own_shell",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
